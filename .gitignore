@@ -1,0 +1,7 @@
+.DS_Store
+.venv
+.env
+.vscode
+__pycache__/
+frontend/RoadBuddy/configs/base-url.tsx
+frontend/RoadBuddy/configs/base-url.tsx
